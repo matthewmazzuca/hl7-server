@@ -1,0 +1,14 @@
+{
+  "name": "hl7-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node lib/app.js"
+  },
+  "author": "Insig",
+  "license": "ISC",
+  "dependencies": {
+    "simple-hl7": "^1.6.2"
+  }
+}
